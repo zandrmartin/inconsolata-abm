@@ -7,8 +7,8 @@ too.
 
 Screenshots:
 
-![Inconsolata-ABM features](https://raw.githubusercontent.com/zandrmartin/inconsolata-abm/master/inconsolata-abm.png)
-![Inconsolata features](https://raw.githubusercontent.com/zandrmartin/inconsolata-abm/master/inconsolata.png)
+![Inconsolata-ABM features](https://raw.githubusercontent.com/deathlyfrantic/inconsolata-abm/master/inconsolata-abm.png)
+![Inconsolata features](https://raw.githubusercontent.com/deathlyfrantic/inconsolata-abm/master/inconsolata.png)
 
 Actual changes made:
 
