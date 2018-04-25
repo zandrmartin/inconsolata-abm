@@ -20,7 +20,7 @@ Actual changes made:
 * changed pipe and slash/backslash to be more uniform
 * increased "waviness" of the tilde
 * increased size of the grave accent to be consistent with single- and
-  double-quotes (for use in `` `backtick strings` ``)
+  double-quotes (for use in \`backtick strings\`)
 * added serifs to the 1
 
 ## License
