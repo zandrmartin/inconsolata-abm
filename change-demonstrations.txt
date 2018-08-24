@@ -19,3 +19,5 @@
         - dash length -
 
         1 serifed one 1
+
+        r serifed lowercase r
