@@ -22,7 +22,6 @@ Actual changes made:
 * increased size of the grave accent to be consistent with single- and
   double-quotes (for use in \`backtick strings\`)
 * added serifs to the 1
-* added serifs to the lowercase r
 
 ## License
 
